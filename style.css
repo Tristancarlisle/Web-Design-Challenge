@@ -1,0 +1,65 @@
+h1 {
+    text-align: left;
+    color: rgb(11, 211, 201);
+    font-size: 20px;
+    
+  }
+  .wrapingimage  {  
+    float: left;   
+    margin: 30px 12px 3px 4px;   
+    border: 2px solid blue;  
+    } 
+    img {
+      float: left; 
+      margin: 5px;
+
+  }
+  p {
+      text-align: justify;
+      font-size: 15px;
+  }
+  body {
+    background-color: #eef1f1;
+    }
+
+    .container {
+      background-color: #ffffff;
+      margin-top: 30px;
+      margin-left: 50px;
+      margin-right: 50px;
+      float:left;
+  }
+
+  .navbar-brand {
+    text-decoration-color: rgb(11, 211, 201);
+}
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
+h1 img {float:top;margin:0 5px 0 0}
+
+.inner_block {
+  display: inline-block;
+  text-align: center;
+  width: 100px;
+}
+
+.gfg {
+  margin: 3%;
+  position: relative;
+}
+
+.first-txt {
+  text-align:center;
+}
